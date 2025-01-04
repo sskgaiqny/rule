@@ -1,2 +1,16 @@
 #匹配数据发起IP(直连)
 - SRC-IP-CIDR,192.168.31.101/32,DIRECT 
+
+#PT下载进程
+- PROCESS-NAME,qbittorrent,DIRECT
+- PROCESS-NAME,transmission-daemon,DIRECT
+- PROCESS-NAME,transmission-qt,DIRECT
+- PROCESS-NAME,uTorrent,DIRECT
+- PROCESS-NAME,WebTorrent,DIRECT
+- PROCESS-NAME,NetTransport,DIRECT
+- PROCESS-NAME,qbittorrent,DIRECT
+- PROCESS-NAME,Transmission,DIRECT
+- PROCESS-NAME,transmission,DIRECT
+- PROCESS-NAME,uTorrent,DIRECT
+- PROCESS-NAME,WebTorrent,DIRECT
+- PROCESS-NAME,WebTorrent Helper,DIRECT
